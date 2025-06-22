@@ -1,5 +1,3 @@
-## 💼 About Me
-I am a full-stack developer with expertise in frontend, backend, and database management.
 
 ---
 
@@ -40,3 +38,6 @@ I am a full-stack developer with expertise in frontend, backend, and database ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="60" height="60"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60"/> &nbsp;
 </div>
+---
+
+[![Top Langs](https://gt-stats-theta.vercel.app//api/top-langs/?username=karimdevelops)](https://github.com/karimdevelops)
