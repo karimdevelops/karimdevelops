@@ -40,4 +40,9 @@
 </div>
 ---
 
-[![Top Langs](https://gt-stats-theta.vercel.app//api/top-langs/?username=karimdevelops)](https://github.com/karimdevelops)
+<div align=right>
+  
+[![Gtihub Stats](https://gt-stats-theta.vercel.app//api?username=karimdevelops&show_icons=true&theme=onedark)](https://github.com/karimdevelops)
+
+[![Top Langs](https://gt-stats-theta.vercel.app//api/top-langs/?username=karimdevelops&theme=onedark&layout=donut-vertical)](https://github.com/karimdevelops)
+</div>
