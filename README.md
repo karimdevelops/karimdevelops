@@ -45,10 +45,14 @@
 </div>
 
 <div>
- <h2>Stats:</h2> 
+ <h2>Stats</h2> 
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" margin-right="20px" src="https://gt-stats-theta.vercel.app/api?username=karimdevelops&theme=calm_pink" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://gt-stats-theta.vercel.app/api/top-langs?username=karimdevelops&layout=compact&langs_count=6&card_width=320&theme=calm_pink" />
+</a>
 
-[![Gtihub Stats](https://gt-stats-theta.vercel.app//api?username=karimdevelops&show_icons=true&theme=onedark)](https://github.com/karimdevelops)
-
-[![Top Langs](https://gt-stats-theta.vercel.app//api/top-langs/?username=karimdevelops&theme=onedark&layout=donut-vertical)](https://github.com/karimdevelops)
 </div>
 </div>
