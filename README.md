@@ -45,7 +45,7 @@
 </div>
 
 <div>
- <h2>Stats: ></h2> 
+ <h2>Stats:</h2> 
 
 [![Gtihub Stats](https://gt-stats-theta.vercel.app//api?username=karimdevelops&show_icons=true&theme=onedark)](https://github.com/karimdevelops)
 
