@@ -5,7 +5,6 @@
 <a href="https://abdulkarim.up.railway.app/">abdulkarim.up.railway.app</a>
 </p>
 
-<br/>
 <h2>My Tech Stack</h2>
 
  <table>
@@ -54,5 +53,9 @@
 </a>
 </div>
 <h2>Connect with me</h2>
+
+<img src="https://img.shields.io/badge/portfolio-%23853bce?style=for-the-badge&link=https%3A%2F%2Fabdulkarim.up.railway.app%2F" alt="portfolio" /> &nbsp;
+<img src="https://img.shields.io/badge/Email-%23c71610?style=for-the-badge&link=mailto%3Akarim.develops%40gmail.com" alt="email" /> &nbsp;
+<img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarimdevelops%2F" alt="linkedin" /> &nbsp;
 
 </div>
