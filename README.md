@@ -58,4 +58,5 @@
 <img src="https://img.shields.io/badge/Email-%23c71610?style=for-the-badge&link=mailto%3Akarim.develops%40gmail.com" alt="email" /> &nbsp;
 <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarimdevelops%2F" alt="linkedin" /> &nbsp;
 
+<img height="100" width="100" src="assets/outro.gif" alt="campfire-gif">
 </div>
