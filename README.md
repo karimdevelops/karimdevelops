@@ -9,7 +9,7 @@
 
 <table>
    <tr>
-     <th>Programming Language</th>
+     <th>Programming Languages</th>
      <th>Frontend Technologies</th>
      <th>Backend Technologies</th>
      <th>Database & Tools</th>
