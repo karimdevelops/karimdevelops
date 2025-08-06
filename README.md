@@ -2,7 +2,7 @@
 <img src=assets/intro.gif alt="intro">
 
 <p>
-<a href="https://abdulkarim.up.railway.app/">abdulkarim.up.railway.app</a>
+<a href="https://karimdevelops.github.io/portfolio//">https://karimdevelops.github.io/portfolio/</a>
 </p>
 
 <h2>My Tech Stack</h2>
