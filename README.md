@@ -2,7 +2,7 @@
 <img src=assets/intro.gif alt="intro">
 
 <p>
-<a href="https://karimdevelops.github.io/portfolio//">https://karimdevelops.github.io/portfolio/</a>
+<a href="https://akarim.tech/">https://akarim.tech/</a>
 </p>
 
 <h2>My Tech Stack</h2>
