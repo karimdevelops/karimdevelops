@@ -13,7 +13,6 @@
      <th>Frontend Technologies</th>
      <th>Backend Technologies</th>
      <th>Database & Tools</th>
-     <th>DevOps & Cloud</th>
    </tr>
    <tr>
      <td>
