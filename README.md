@@ -41,7 +41,7 @@
  <h2>Stats</h2> 
 <br/>
  
-  [<img height=180 align="center" margin-right="20px" src="https://gt-stats-theta.vercel.app/api?username=karimdevelops&theme=calm_pink" />](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+  [<img height=180 align="center" margin-right="20px" src="https://gt-stats-theta.vercel.app/api?username=karimdevelops&include_all_commits=true&theme=calm_pink" />](https://github.com/anuraghazra/github-readme-stats) &nbsp;
   [<img height=180 align="center" src="https://gt-stats-theta.vercel.app/api/top-langs?username=karimdevelops&layout=compact&langs_count=6&card_width=320&theme=calm_pink" />](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
