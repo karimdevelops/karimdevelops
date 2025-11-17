@@ -49,7 +49,7 @@
 </div>
 <h2>Connect with me</h2>
 
-[<img src="https://img.shields.io/badge/portfolio-%23853bce?style=for-the-badge&link=https%3A%2F%2Fabdulkarim.up.railway.app%2F" alt="portfolio" />](https://abdulkarim.up.railway.app/) &nbsp;
+[<img src="https://img.shields.io/badge/portfolio-%23853bce?style=for-the-badge&link=https%3A%2F%2Fakarim.tech%2F" alt="portfolio" />](https://akarim.tech/) &nbsp;
 [<img src="https://img.shields.io/badge/Email-%23c71610?style=for-the-badge&link=mailto%3Akarim.develops%40gmail.com" alt="email" />](mailto:karim.develops@gmail.com) &nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarimdevelops%2F" alt="linkedin" />](https://www.linkedin.com/in/karimdevelops/)
 
